@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="US_AddTran.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GetComponent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="US_Login.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="US_Main.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="US_Registration.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="US_Report.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="US_History.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="US_Plan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="US_Setting.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="US_TietKiem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

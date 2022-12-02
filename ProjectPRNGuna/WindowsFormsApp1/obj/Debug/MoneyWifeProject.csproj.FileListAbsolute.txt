@@ -1,0 +1,16 @@
+E:\Sem6\PRN211\ProjectPRNGuna\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Sem6\PRN211\ProjectPRNGuna\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Sem6\PRN211\ProjectPRNGuna\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Sem6\PRN211\ProjectPRNGuna\WindowsFormsApp1\bin\Debug\Guna.Charts.WinForms.dll
+E:\Sem6\PRN211\ProjectPRNGuna\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+E:\Sem6\PRN211\ProjectPRNGuna\WindowsFormsApp1\obj\Debug\MoneyWifeProject.csproj.AssemblyReference.cache
+E:\Sem6\PRN211\ProjectPRNGuna\WindowsFormsApp1\obj\Debug\MoneyWifeProject.csproj.SuggestedBindingRedirects.cache
+E:\Sem6\PRN211\ProjectPRNGuna\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GetComponent.resources
+E:\Sem6\PRN211\ProjectPRNGuna\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginUS.resources
+E:\Sem6\PRN211\ProjectPRNGuna\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+E:\Sem6\PRN211\ProjectPRNGuna\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Sem6\PRN211\ProjectPRNGuna\WindowsFormsApp1\obj\Debug\MoneyWifeProject.csproj.GenerateResource.cache
+E:\Sem6\PRN211\ProjectPRNGuna\WindowsFormsApp1\obj\Debug\MoneyWifeProject.csproj.CoreCompileInputs.cache
+E:\Sem6\PRN211\ProjectPRNGuna\WindowsFormsApp1\obj\Debug\MoneyWifeProject.csproj.CopyComplete
+E:\Sem6\PRN211\ProjectPRNGuna\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Sem6\PRN211\ProjectPRNGuna\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
